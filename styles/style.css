@@ -310,7 +310,7 @@ form .btn {
         gap: 4rem;
     }
 }
-@media (min-width:1440){
+@media (min-width:1440px){
     :root {
         font-size: 27px;
     }
